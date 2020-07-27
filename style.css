@@ -56,14 +56,17 @@ body {
 @media(max-width: 767px) {
   .container {
     width: 33%;
+    height:auto;
   }
 
   .container2 {
     width: 33%;
+    height:auto;
   }
 
   .container3 {
     width: 33%;
+    height:auto;
   }
 }
 
@@ -75,6 +78,7 @@ body {
 
   .container2 {
     width: 50%;
+    height:auto;
   }
   .container3{
     width: 100%;
@@ -140,5 +144,3 @@ footer {
   border: 0;
   font-size: 10px;
 }
-
-On Mon, Jul 27, 2020 at 10:56 AM Mohar Ghosh <moharghosh11@gmail.com> wrote:
